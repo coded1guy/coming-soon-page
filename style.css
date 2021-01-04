@@ -27,6 +27,8 @@ nav {
 }
 main {
     width: calc(100% - 150px);
+    background: #FFF;
+    border-radius: 5px;
     padding: 20px;
     display: flex;
     justify-content: center;
